@@ -1,2 +1,6 @@
 # Project exclude paths
 /target/
+.idea
+reproduce.iml
+.gitignore
+primary.sqlite3
